@@ -1,0 +1,10 @@
+[2025-11-06 12:03:41.449] [info]  [db] Initialized DB client
+[2025-11-06 12:03:41.468] [info]  Redirecting to last visited project proj_783a66906c524cccb90d362e8917d7ce
+[2025-11-06 12:03:41.682] [info]  [FileSystemDriver] Initialized in "/home/mohrt/.config/Insomnia/version-control"
+[2025-11-06 12:03:41.686] [info]  [sync] Activated project prj_c2e96ef32a994a1b80b9d4150767755a
+[2025-11-06 12:03:41.686] [info]  [FileSystemDriver] Writing to /projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json
+[2025-11-06 12:03:41.686] [info]  [FileSystemDriver] Writing to /home/mohrt/.config/Insomnia/version-control/projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json.78e60fa2-b38e-4d26-928d-3500f96db9cd.tmp then renaming to /home/mohrt/.config/Insomnia/version-control/projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json
+[2025-11-06 12:03:42.059] [info]  [project] Fetching org_916f923e-d270-459d-902d-4f85437608d5
+[2025-11-06 12:03:43.731] [info]  [sync] Activated project prj_c2e96ef32a994a1b80b9d4150767755a
+[2025-11-06 12:03:43.732] [info]  [FileSystemDriver] Writing to /projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json
+[2025-11-06 12:03:43.732] [info]  [FileSystemDriver] Writing to /home/mohrt/.config/Insomnia/version-control/projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json.08ea9e94-96ae-42c2-9ac3-9c98fc55450c.tmp then renaming to /home/mohrt/.config/Insomnia/version-control/projects/prj_c2e96ef32a994a1b80b9d4150767755a/meta.json
